@@ -9,5 +9,6 @@ public class Multi1 {
     }
     public void test()
     {
+        // Do nothing because of X and Y.
     }
 }
